@@ -1,7 +1,5 @@
 # LITERATURE SURVEY OVERVIEW
 - Student name: Srinath Jayaraman Nagamani
-- Student number: 5049903
-- Student email: S.JayaramanNagamani@student.tudelft.nl
 - Supervisor: Dr. Cynthia Liem
 
 Over the course of my conversation with Dr. Liem, I arrived at the following structure and procedure to be followed for my literature survey.
